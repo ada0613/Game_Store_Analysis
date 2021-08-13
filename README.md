@@ -1,4 +1,4 @@
-# Game_Store_Analysis
+# Game Store Analysis
 Practicum by Yandex Project 4 - Integrated Project 1
 
 # Project Description
